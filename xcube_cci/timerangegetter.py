@@ -28,7 +28,7 @@ from typing import Mapping
 from typing import Tuple
 from typing import Union
 
-from xcube_cci.ccicdc import CciCdc
+from xcube_cci.cciodp import CciCdc
 
 from esa_climate_toolbox.constants import MONTHS
 from .constants import TIMESTAMP_FORMAT

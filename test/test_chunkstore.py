@@ -6,7 +6,7 @@ import xarray as xr
 
 from unittest import skipIf
 
-from xcube_cci.ccicdc import CciCdc
+from xcube_cci.cciodp import CciCdc
 from xcube_cci.chunkstore import CciChunkStore
 
 OC_ID = 'esacci.OC.5-days.L3S.K_490.multi-sensor.multi-platform.MERGED.6-0.' \

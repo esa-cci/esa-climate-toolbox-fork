@@ -37,7 +37,7 @@ from typing import Iterator, Any, List, Dict, Tuple, Callable, Iterable, \
 import numpy as np
 import pandas as pd
 
-from .ccicdc import CciCdc
+from .cciodp import CciCdc
 from .constants import COMMON_COORD_VAR_NAMES
 from .constants import TIMESTAMP_FORMAT
 from .timerangegetter import extract_time_range_as_strings

@@ -26,7 +26,7 @@ import geopandas as gpd
 import pandas as pd
 import shapely
 
-from xcube_cci.ccicdc import CciCdc
+from xcube_cci.cciodp import CciCdc
 from xcube_cci.timerangegetter import TimeRangeGetter
 
 

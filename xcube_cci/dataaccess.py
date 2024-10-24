@@ -47,7 +47,7 @@ from xcube.util.jsonschema import JsonNumberSchema
 from xcube.util.jsonschema import JsonObjectSchema
 from xcube.util.jsonschema import JsonStringSchema
 
-from .ccicdc import CciCdc
+from .cciodp import CciCdc
 from .chunkstore import CciChunkStore
 from .constants import CCI_ODD_URL
 from .constants import DATAFRAME_OPENER_ID

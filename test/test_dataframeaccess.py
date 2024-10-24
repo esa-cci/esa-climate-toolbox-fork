@@ -1,6 +1,6 @@
 import unittest
 
-from xcube_cci.ccicdc import CciCdc
+from xcube_cci.cciodp import CciCdc
 from xcube_cci.dataframeaccess import DataFrameAccessor
 
 GHG_DS_ID = "esacci.GHG.satellite-orbit-frequency.L2.CH4.SCIAMACHY.Envisat.IMAP.v7-2.r1"
